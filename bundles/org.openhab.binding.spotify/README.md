@@ -218,8 +218,8 @@ sitemap spotify label="Spotify Sitemap" {
     Text      item=spotifyTrackName     label="Track Name: [%s]"
     Image     item=spotifyAlbumImage    label="Album Art"
     Text      item=spotifyAlbumName     label="Currently Played Album Name: [%s]"
-    Text      item=spotifyTrtistName    label="Currently Played Artist Name: [%s]"
-    Selection item=spotifyTrackPlay     label="Playlist" icon="music"
+    Text      item=spotifyArtistName    label="Currently Played Artist Name: [%s]"
+    Selection item=spotifyPlaylists     label="Playlist" icon="music"
   }
 
   Frame label="My Spotify Device 1" {
