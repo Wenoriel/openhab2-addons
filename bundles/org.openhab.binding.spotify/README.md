@@ -184,7 +184,7 @@ String spotifyDevices       label="Active device [%s]"   {channel="spotify:playe
 Switch spotifyDeviceShuffle label="Shuffle mode"         {channel="spotify:player:user1:deviceShuffle"}
 String spotifyTrackRepeat   label="Repeat mode: [%s]"    {channel="spotify:player:user1:trackRepeat"}
 String spotifyTrackProgress label="Track progress: [%s]" {channel="spotify:player:user1:trackProgress"}
-String spotifyTrackDuration label="Track duration: [%s]" {channel="spotify:player:user1:tackDuration"}
+String spotifyTrackDuration label="Track duration: [%s]" {channel="spotify:player:user1:trackDuration"}
 String spotifyTrackName     label="Track Name: [%s]"     {channel="spotify:player:user1:trackName"}
 String spotifyAlbumName     label="Album Name: [%s]"     {channel="spotify:player:user1:albumName"}
 String spotifyArtistName    label="Artist Name: [%s]"    {channel="spotify:player:user1:artistName"}
